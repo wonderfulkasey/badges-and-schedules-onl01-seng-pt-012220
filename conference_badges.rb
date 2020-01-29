@@ -2,5 +2,5 @@
 
 def
   badge_maker("Kasey")
-  => "Hello, my name is Kasey."
+  puts "Hello, my name is Kasey."
 end
